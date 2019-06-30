@@ -2,6 +2,8 @@
 
 This is a submission for the udancity blog post project 
 
+[blog post](https://medium.com/@alsalman.hn/prospects-of-saudi-stock-market-9776a9a6bec)
+
 ## Librareis used 
 
 - `requests` : This library was necessary to create the http requests for Tadawul website. 
